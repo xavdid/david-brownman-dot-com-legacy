@@ -1,0 +1,114 @@
+# pages
+
+/blog/         https://xavd.id/blog/
+/projects/     https://xavd.id/projects/
+/misc/         https://xavd.id/projects/
+
+# random
+
+/files/resume/ https://www.linkedin.com/in/xavdid/
+
+# blog posts
+
+/blog/2020/02/11/my-favorite-media-of-the-year-2019-edition/   https://xavd.id/blog/post/my-favorite-media-of-the-year-2019-edition/
+/blog/2019/02/05/my-favorite-media-2018-edition/               https://xavd.id/blog/post/my-favorite-media-2018-edition/
+/blog/2017/02/11/a-few-of-my-favorite-things/                  https://xavd.id/blog/post/a-few-of-my-favorite-things/
+/blog/2018/02/21/a-few-more-favorites/                         https://xavd.id/blog/post/a-few-more-favorites/
+/blog/2018/06/05/on-the-rating-of-media/                       https://xavd.id/blog/post/on-the-rating-of-media/
+/blog/2018/11/05/thunderbolts-and-lightning/                   https://xavd.id/blog/post/thunderbolts-and-lightning/
+/blog/2018/10/28/the-party-of-lincoln/                         https://xavd.id/blog/post/the-party-of-lincoln/
+/blog/2014/02/12/if-shirt-then-bounce/                         https://xavd.id/blog/post/if-shirt-then-bounce/
+/blog/2014/01/15/nothing-whats-informata/                      https://xavd.id/blog/post/nothing-whats-informata/
+/blog/2016/08/19/quidditch-by-the-numbers/                     https://xavd.id/blog/post/quidditch-by-the-numbers/
+/blog/2018/04/26/marvel-movies-ranked/                         https://xavd.id/blog/post/marvel-movies-ranked/
+/blog/2016/12/24/holmesword-bound/                             https://xavd.id/blog/post/holmesword-bound/
+/blog/2013/11/20/ftl-a-blend-of-narrative/                     https://xavd.id/blog/post/ftl-a-blend-of-narrative/
+/blog/2013/10/16/what-is-a-python/                             https://xavd.id/blog/post/what-is-a-python/
+/blog/2014/12/16/augmenting-automation-on-ios/                 https://xavd.id/blog/post/augmenting-automation-on-ios/
+/blog/2013/07/02/the-story-of-davids-dark/                     https://xavd.id/blog/post/the-story-of-davids-dark/
+/blog/2017/09/05/bogosort-in-practice/                         https://xavd.id/blog/post/bogosort-in-practice/
+/blog/2017/07/05/how-hackers-steal-your-data/                  https://xavd.id/blog/post/how-hackers-steal-your-data/
+/blog/2017/03/19/a-few-good-x-men/                             https://xavd.id/blog/post/a-few-good-x-men/
+/blog/2013/06/27/to-infinity-and-beyond/                       https://xavd.id/blog/post/to-infinity-and-beyond/
+/blog/2014/12/21/pythonista-power-pack/                        https://xavd.id/blog/post/pythonista-power-pack/
+/blog/2013/07/09/if-i-were-a-recycling/                        https://xavd.id/blog/post/if-i-were-a-recycling/
+/blog/2013/06/13/two-sides-of-the-same/                        https://xavd.id/blog/post/two-sides-of-the-same/
+/blog/2013/06/20/the-quilt-of-our-lives/                       https://xavd.id/blog/post/the-quilt-of-our-lives/
+/blog/2016/07/08/heroku-plugins/                               https://xavd.id/blog/post/heroku-plugins/
+/blog/2016/08/09/the-great-migration/                          https://xavd.id/blog/post/the-great-migration/
+/blog/2015/09/15/whats-in-a-name/                              https://xavd.id/blog/post/whats-in-a-name/
+/blog/2013/09/25/get-into-the-flow/                            https://xavd.id/blog/post/get-into-the-flow/
+/blog/2013/10/09/habbo-you-tell-me-how/                        https://xavd.id/blog/post/habbo-you-tell-me-how/
+/blog/2013/10/02/simulations-simulated/                        https://xavd.id/blog/post/simulations-simulated/
+/blog/2013/10/30/take-you-to-the-candy/                        https://xavd.id/blog/post/take-you-to-the-candy/
+/blog/2014/08/13/errors-are-usually-bad/                       https://xavd.id/blog/post/errors-are-usually-bad/
+/blog/2013/12/12/the-week-of-code-is/                          https://xavd.id/blog/post/the-week-of-code-is/
+
+# blog tag pages
+
+/blog/tag/lookback/                https://xavd.id/blog
+/blog/tag/books/                   https://xavd.id/blog
+/blog/tag/movies/                  https://xavd.id/blog
+/blog/tag/television/              https://xavd.id/blog
+/blog/tag/videogames/              https://xavd.id/blog
+/blog/tag/hardware/                https://xavd.id/blog
+/blog/tag/politics/                https://xavd.id/blog
+/blog/tag/sports/                  https://xavd.id/blog
+/blog/tag/airtable/                https://xavd.id/blog
+/blog/tag/boardgames/              https://xavd.id/blog
+/blog/tag/marvel/                  https://xavd.id/blog
+/blog/tag/movies/page/2/           https://xavd.id/blog
+/blog/tag/play/                    https://xavd.id/blog
+/blog/tag/videogames/page/2/       https://xavd.id/blog
+/blog/tag/ruby/                    https://xavd.id/blog
+/blog/tag/programming/             https://xavd.id/blog
+/blog/tag/statistics/              https://xavd.id/blog
+/blog/tag/security/                https://xavd.id/blog
+/blog/tag/adventure/               https://xavd.id/blog
+/blog/tag/automation/              https://xavd.id/blog
+/blog/tag/college/                 https://xavd.id/blog
+/blog/tag/dropbox/                 https://xavd.id/blog
+/blog/tag/environmentalism/        https://xavd.id/blog
+/blog/tag/essay/                   https://xavd.id/blog
+/blog/tag/facebook/                https://xavd.id/blog
+/blog/tag/fiction/                 https://xavd.id/blog
+/blog/tag/heroku/                  https://xavd.id/blog
+/blog/tag/ios/                     https://xavd.id/blog
+/blog/tag/javascript/              https://xavd.id/blog
+/blog/tag/jq/                      https://xavd.id/blog
+/blog/tag/launch-center-pro/       https://xavd.id/blog
+/blog/tag/personal/                https://xavd.id/blog
+/blog/tag/python/                  https://xavd.id/blog
+/blog/tag/pythonista/              https://xavd.id/blog
+/blog/tag/quidditch/               https://xavd.id/blog
+/blog/tag/relateiq/                https://xavd.id/blog
+/blog/tag/tumblr/                  https://xavd.id/blog
+/blog/tag/tutorial/                https://xavd.id/blog
+/blog/tag/workflow/                https://xavd.id/blog
+/blog/tag/programming/page/2/      https://xavd.id/blog
+
+# blog numbered pages
+
+/blog/page/2/    https://xavd.id/blog
+/blog/page/3/    https://xavd.id/blog
+/blog/page/4/    https://xavd.id/blog
+/blog/page/5/    https://xavd.id/blog
+/blog/page/6/    https://xavd.id/blog
+/blog/page/7/    https://xavd.id/blog
+
+# blog other
+
+/blog/feeds/     https://xavd.id/blog/feeds/
+/blog/tags/      https://xavd.id/blog
+/blog/calendar/  https://xavd.id/blog
+
+# github pages
+
+/monopoly/   https://xavdid.github.io/monopoly/
+/refbook/    https://xavdid.github.io/refbook/
+/stackpro/   https://xavdid.github.io/stackpro/
+/lolapi/     https://xavdid.github.io/lolapi/
+
+/ https://xavd.id/ 301!
+
+/* /404.html 404!
