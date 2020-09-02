@@ -101,6 +101,8 @@
 /blog/feeds/     https://xavd.id/blog/feeds/
 /blog/tags/      https://xavd.id/blog
 /blog/calendar/  https://xavd.id/blog
+/blog/feed.xml    https://xavd.id/blog/feeds/rss.xml
+# /blog/feed.json    https://xavd.id/blog/feeds/feed.json
 
 # github pages
 
